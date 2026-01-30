@@ -1,0 +1,7 @@
+{
+  "name": "Kisaan Care: Precision Farm Monitor",
+  "description": "A comprehensive agricultural monitoring dashboard that uses Gemini AI for visual leaf moisture analysis and soil health tracking (NPK, pH, Humidity) to provide real-time precautions and protection advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
